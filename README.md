@@ -73,3 +73,11 @@ Notes to Keep in Mind:
 •	Input images in the single_prediction directory must be in supported formats such as JPEG or PNG.
 •	If possible, use a machine equipped with a GPU to accelerate training time and computations.
 
+# Medium Article URL
+
+
+# Dataset URL
+https://drive.google.com/drive/folders/1csQmwV9Nlu8J3SXtdYxmu0UsFY3SlVzt?usp=drive_link
+
+
+
